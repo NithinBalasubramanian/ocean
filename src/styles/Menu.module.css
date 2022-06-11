@@ -1,0 +1,29 @@
+.menuContent {
+    width : 100%;
+    padding : 25px 0px 15px 0px;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.menuContent a {
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: 600;
+    color : black;
+}
+
+.menuContent .active {
+    color : #0309a3;
+    border-top: 2px solid #0309a3;
+}
+
+.menuContent a:hover { 
+    color : #0309a3;
+}
+
+button {
+    padding : 10px 0px;
+    margin-top:10px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    background-color: #0309a3 !important;
+}

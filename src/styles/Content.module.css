@@ -1,0 +1,28 @@
+.contentContainer {
+    padding : 30px 15px;
+}
+
+.addButton {
+    padding : 10px 0xp;
+}
+
+.formModal {
+    padding : 30px 0px;
+}
+
+.formModal div {
+    margin-bottom: 10px !important;
+}
+
+.formModal label {
+    margin-bottom: 10px !important;
+}
+
+.formModal button {
+    width:100%;
+    padding : 10px 0px;
+    margin-top:10px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    background-color: #0309a3 !important;
+}

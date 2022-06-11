@@ -1,0 +1,6 @@
+.Content {
+    width : 85%;
+    margin : 10px auto;
+    /* background-color: red; */
+    min-height : 100vh;
+}
